@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "prova1-disp-moveis",
+    "slug": "snack-7d7ec57d-abb5-42aa-b80a-b7762d664121",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": ""
+    }
+  }
+}
